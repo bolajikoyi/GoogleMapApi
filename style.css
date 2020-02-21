@@ -4,17 +4,18 @@
 }
 #map{
     height: 400px;
-    width: 400px;
+    width: 800px;
     background-color: gray;
     position: absolute;
     left: 50%;
-    margin-left: -200px;
+    margin-left: -400px;
+    
     
 }
-.container{
+/* .container{
     width:100%;
     position: relative;
-}
+} */
 .header{
     
     padding: 20px 0px;
